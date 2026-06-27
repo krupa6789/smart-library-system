@@ -1,0 +1,44 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.flattened-pom.xml
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.classpath
+.project
+.settings/
+.sts4-cache/
+.DS_Store
+
+# Build
+/bin/
+build/
+.gradle/
+*.class
+
+# Logging
+*.log
+logs/
+
+# Others
+*.swp
+*.swo
+*~
+.env
+.env.local
